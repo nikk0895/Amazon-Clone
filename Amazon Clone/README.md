@@ -1,0 +1,1 @@
+# The Amazone clone website (Static) is created using HTML & CSS
